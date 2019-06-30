@@ -1,0 +1,9 @@
+{
+    "author" : "BJPickles (BJPickles#6955)",
+    "install_msg" : "Thank you for installing this repo.\nFor issues, bugs, or suggestions contact me in Discord.\nFor more information, head to the AEGIS Discord.>",
+    "name" : "AEGIS-Cogs-V3",
+    "short" : "Games and community development plugins.",
+    "requirements" : ["tabulate"],
+    "description" : "Contains several games for the community such has Casino, Heist, and Race. Also contains community tools like lottery and shop.",
+    "tags" : ["Games", "Economy", "Fun"]
+}
