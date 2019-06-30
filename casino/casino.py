@@ -1,5 +1,3 @@
-# Developed by Redjumpman for Redbot.
-
 # Standard Library
 import asyncio
 import calendar
@@ -26,7 +24,7 @@ import discord
 from tabulate import tabulate
 
 __version__ = "2.3.0"
-__author__ = "Redjumpman"
+__author__ = "Mooncake"
 
 _ = Translator("Casino", __file__)
 
